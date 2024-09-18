@@ -1,0 +1,1 @@
+Pembuatan aplikasi order makanan, dimana aplikasi terdapat beberapa akun. Akun user dimana untuk pengguna yang ingin memesan makanan, akun  admin yang digunakan untuk melihat list semua pesanan, akun kurir untuk melihat data pelanggan yang memesan, dan akun restaurant terdiri dari menu menu makanan dan juga orderan pelanggan.
